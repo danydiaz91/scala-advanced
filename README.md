@@ -1,2 +1,2 @@
-# scala-advanced
+# Scala Advanced
 Scala Advanced (Rock the JVM Course)
